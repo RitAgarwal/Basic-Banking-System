@@ -76,7 +76,7 @@ nav ul li a:hover{
   color: #fff;
 }
 .h1,.h2{
-  background-image: url('images/g29.jpg');
+  background-image: url('g29.jpg');
   -webkit-background-clip:text;
   -webkit-text-fill-color:transparent;
   animation:animate 5s linear infinite;
