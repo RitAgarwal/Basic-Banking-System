@@ -1,5 +1,6 @@
 # Basic-Banking-System
 A web Application where a customer can send money to anyone from anywhere by just one click.
+
 Stack used -
 
 Front-end : HTML, CSS, Bootstrap & Javascript
